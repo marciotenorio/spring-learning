@@ -1,0 +1,10 @@
+E:\marcio\code\spring-learning\src\main\java\br\marcio\springlearning\dto\anime\AnimePostRequestBody.java
+E:\marcio\code\spring-learning\src\main\java\br\marcio\springlearning\exception\BadRequestException.java
+E:\marcio\code\spring-learning\src\main\java\br\marcio\springlearning\model\Anime.java
+E:\marcio\code\spring-learning\src\main\java\br\marcio\springlearning\SpringLearningApplication.java
+E:\marcio\code\spring-learning\src\main\java\br\marcio\springlearning\handler\RestExceptionHandler.java
+E:\marcio\code\spring-learning\src\main\java\br\marcio\springlearning\repository\AnimeRepository.java
+E:\marcio\code\spring-learning\src\main\java\br\marcio\springlearning\controller\AnimeController.java
+E:\marcio\code\spring-learning\src\main\java\br\marcio\springlearning\exception\BadRequestExceptionDetails.java
+E:\marcio\code\spring-learning\src\main\java\br\marcio\springlearning\service\AnimeService.java
+E:\marcio\code\spring-learning\src\main\java\br\marcio\springlearning\dto\anime\AnimeMapper.java

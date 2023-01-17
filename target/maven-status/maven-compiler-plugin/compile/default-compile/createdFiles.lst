@@ -1,0 +1,12 @@
+br\marcio\springlearning\exception\BadRequestExceptionDetails.class
+br\marcio\springlearning\model\Anime.class
+br\marcio\springlearning\service\AnimeService.class
+br\marcio\springlearning\controller\AnimeController.class
+br\marcio\springlearning\dto\anime\AnimeMapperImpl.class
+br\marcio\springlearning\handler\RestExceptionHandler.class
+br\marcio\springlearning\exception\BadRequestExceptionDetails$BadRequestExceptionDetailsBuilder.class
+br\marcio\springlearning\SpringLearningApplication.class
+br\marcio\springlearning\dto\anime\AnimeMapper.class
+br\marcio\springlearning\exception\BadRequestException.class
+br\marcio\springlearning\dto\anime\AnimePostRequestBody.class
+br\marcio\springlearning\repository\AnimeRepository.class
